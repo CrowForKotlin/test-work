@@ -2,4 +2,5 @@
 
 int main() {
     printf("asdasd");
+    int i = 0;
 }
